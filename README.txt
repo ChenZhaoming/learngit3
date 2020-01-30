@@ -3,5 +3,6 @@ Git is free software.
 Git is awesome.
 Git has a mutable index called stage.
 Git tracks changes.
-Github is awesome!!!!
-Git branch is usefull!!
+Github is awesome.
+Git branch is usefull.
+Add new line to README.txt in dev branch.
