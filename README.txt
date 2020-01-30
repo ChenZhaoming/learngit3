@@ -7,3 +7,4 @@ Github is awesome.
 Git branch is usefull.
 Add new line to README.txt in dev branch.
 Creating a new banch is quick and simple.
+Test fast forward mod
